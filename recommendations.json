@@ -1,0 +1,23 @@
+[
+    {
+        "appeared": "True",
+        "img": "imgs/pose.jpg",
+        "plot": "The plot is about New York City's African-American, Latino LGBTQ and gender-nonconforming drag ball culture scene in the 1980s and the 1990s",
+        "title": "Pose",
+        "type": "TV series"
+    },
+    {
+        "appeared": "True",
+        "img": "imgs/genderqueer.jpg",
+        "plot": "It is an autobiographical comic about the author's experiences being nonbinary and asexual",
+        "title": "Gender Queer: A Memoir",
+        "type": "book"
+    },
+    {
+        "appeared": "True",
+        "img": "imgs/transhood.jpg",
+        "plot": "Four kids and their families explain their journeys with gender",
+        "title": "Transhood",
+        "type": "documentary"
+    }
+]
