@@ -2,12 +2,11 @@ import tweepy
 import json
 import random
 import os
-from boto.s3.connection import S3Connection
 
 
 # Twitter authentication
-auth = tweepy.OAuthHandler(S3Connection(os.environ['CONSUMER_KEY']), S3Connection(os.environ['CONSUMER_SECRET_KEY']))
-auth.set_access_token(S3Connection(os.environ['ACCESS_TOKEN']), S3Connection(os.environ['ACCESS_SECRET_TOKEN']))
+auth = tweepy.OAuthHandler(os.environ['CONSUMER_KEY'], os.environ['CONSUMER_SECRET_KEY'])
+auth.set_access_token(os.environ['ACCESS_TOKEN'], os.environ['ACCESS_SECRET_TOKEN'])
 
 api = tweepy.API(auth)
 
