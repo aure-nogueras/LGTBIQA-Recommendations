@@ -82,5 +82,17 @@
         "plot": "It is about the psychic connection of eight strangers of a variety of walks of life from different parts of the world",
         "title": "Sense8",
         "type": "TV series"
+    },
+    {
+        "img": "imgs/aligarh.jpg",
+        "plot": "Siras a professor on whom a sting operation was carried out to determine his sexual orientation, forms a special bond with a journalist.",
+        "title": "Aligarh",
+        "type": "Movie"
+    },
+    {
+        "img": "imgs/margarita-with-a-straw.jpg",
+        "plot": "A young woman with cerebral palsy leaves India to study. On her self-discovery journey, she unexpectedly falls in love.",
+        "title": "Margarita with a Straw",
+        "type": "Movie"
     }
 ]
