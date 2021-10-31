@@ -18,6 +18,42 @@
         "type": "TV series"
     },
     {
+        "img": "imgs/tales.jpg",
+        "plot": "Mary Ann Singleton returns to 28 Barbary Lane in San Francisco after 23 years for the 90th birthday of her former landlady",
+        "title": "Tales of the City",
+        "type": "TV series"
+    },
+    {
+        "img": "imgs/euphoria.jpg",
+        "plot": "It follows a group of high school students through their experiences of sex, drugs, friendships, love, identity, and trauma",
+        "title": "Euphoria",
+        "type": "TV series"
+    },
+    {
+        "img": "imgs/generation.jpg",
+        "plot": "The story centers on a group of high school students in Orange County, California who explore their sexuality in a modern world",
+        "title": "Genera+ion",
+        "type": "TV series"
+    },
+    {
+        "img": "imgs/oitnb.jpg",
+        "plot": "The series begins revolving around Piper Chapman, a woman who is sentenced to 15 months in Litchfield Penitentiary",
+        "title": "Orange is the New Black",
+        "type": "TV series"
+    },
+    {
+        "img": "imgs/sense8.jpg",
+        "plot": "It is about the psychic connection of eight strangers of a variety of walks of life from different parts of the world",
+        "title": "Sense8",
+        "type": "TV series"
+    },
+    {
+        "img": "imgs/aligarh.jpg",
+        "plot": "Siras a professor on whom a sting operation was carried out to determine his sexual orientation, forms a special bond with a journalist",
+        "title": "Aligarh",
+        "type": "movie"
+    },
+    {
         "img": "imgs/pose.jpg",
         "plot": "The plot is about New York City's African-American, Latino LGBTQ and gender-nonconforming drag ball culture scene in the 1980s and the 1990s",
         "title": "Pose",
@@ -54,45 +90,9 @@
         "type": "documentary"
     },
     {
-        "img": "imgs/tales.jpg",
-        "plot": "Mary Ann Singleton returns to 28 Barbary Lane in San Francisco after 23 years for the 90th birthday of her former landlady",
-        "title": "Tales of the City",
-        "type": "TV series"
-    },
-    {
-        "img": "imgs/euphoria.jpg",
-        "plot": "It follows a group of high school students through their experiences of sex, drugs, friendships, love, identity, and trauma",
-        "title": "Euphoria",
-        "type": "TV series"
-    },
-    {
-        "img": "imgs/generation.jpg",
-        "plot": "The story centers on a group of high school students in Orange County, California who explore their sexuality in a modern world",
-        "title": "Genera+ion",
-        "type": "TV series"
-    },
-    {
-        "img": "imgs/oitnb.jpg",
-        "plot": "The series begins revolving around Piper Chapman, a woman who is sentenced to 15 months in Litchfield Penitentiary",
-        "title": "Orange is the New Black",
-        "type": "TV series"
-    },
-    {
-        "img": "imgs/sense8.jpg",
-        "plot": "It is about the psychic connection of eight strangers of a variety of walks of life from different parts of the world",
-        "title": "Sense8",
-        "type": "TV series"
-    },
-    {
-        "img": "imgs/aligarh.jpg",
-        "plot": "Siras a professor on whom a sting operation was carried out to determine his sexual orientation, forms a special bond with a journalist.",
-        "title": "Aligarh",
-        "type": "Movie"
-    },
-    {
         "img": "imgs/margarita-with-a-straw.jpg",
-        "plot": "A young woman with cerebral palsy leaves India to study. On her self-discovery journey, she unexpectedly falls in love.",
+        "plot": "A young woman with cerebral palsy leaves India to study. On her self-discovery journey, she unexpectedly falls in love",
         "title": "Margarita with a Straw",
-        "type": "Movie"
+        "type": "movie"
     }
 ]
