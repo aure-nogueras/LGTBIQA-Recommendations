@@ -1,8 +1,8 @@
 [
     {
-        "img": "imgs/george.jpg",
+        "img": "imgs/melissa.jpg",
         "plot": "It is a children's novel about a young transgender girl written by American author Alex Gino",
-        "title": "George",
+        "title": "Melissa",
         "type": "book"
     },
     {
@@ -10,6 +10,42 @@
         "plot": "It is based on the novel Simon vs. the Homo Sapiens Agenda. Simon Spier is a closeted gay high school boy living in a suburb of Atlanta",
         "title": "Love, Simon",
         "type": "movie"
+    },
+    {
+    	"img": "imgs/revolution.jpg",
+        "plot": "An exploration of the world-changing activism and potential of the largest youth generation in history",
+        "title": "The Revolution Generation",
+        "type": "documentary"
+    },
+    {
+    	"img": "imgs/heartbreak.jpg",
+        "plot": "Amerie and her new friends navigate love, sex and life at Hartley High School",
+        "title": "Heartbreak High",
+        "type": "TV series"
+    },
+    {
+    	"img": "imgs/deadend.JPG",
+        "plot": "Two teens and a talking pug team up to battle demons at a haunted theme park",
+        "title": "Dead End: Paranormal Park",
+        "type": "TV series"
+    },
+    {
+    	"img": "imgs/hsmtmts.jpg",
+        "plot": "It is a musical drama inspired by the High School Musical film series. It follows a group of teenage theater enthusiasts",
+        "title": "HSMTMTS",
+        "type": "TV series"
+    },
+    {
+    	"img": "imgs/ser.jpg",
+        "plot": "Joel is a trans teenager who dreams of becoming a great actor while struggling with his emotions",
+        "title": "Ser o no ser",
+        "type": "TV series"
+    },
+    {
+    	"img": "imgs/sapere.jpg",
+        "plot": "It is a spin-off of another show called Merlí. It follows Pol Rubio as he starts his studies in Philosophy at university",
+        "title": "Merlí: Sapere aude",
+        "type": "TV series"
     },
     {
         "img": "imgs/sin.jpg",
